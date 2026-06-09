@@ -1,6 +1,6 @@
 Lung Cancer Survey Analysis for Both Males and Females
 
-<img src="Image/Lung_Cancer_Dashboard.png.png" alt="Dashboard" width="600">
+<img src="Image/Lung_Cancer_Dashboard.png" alt="Dashboard" width="1200">
 
 📌 Project Overview This analysis is to help understand the cancer risk in different age groups and also notify the respondents with lung cancer in different age groups. My data was analyzed using Microsoft Excel and visualized using Python.
 
@@ -60,7 +60,9 @@ LUNG_CANCER: The target variable, indicating whether the individual has lung can
 
 2️⃣ Data Transformation & Modeling ✔ Created calculated columns for fraud detection metrics. ✔ Designed a date table for time-based analysis in Power BI. ✔ Established relationships between transactions and customers for segmentation analysis.
 
-📊 Power BI Lung Cancer Survey Analysis Dashboard image
+📊 Power BI Lung Cancer Survey Analysis Dashboard 
+
+<img src="Image/Lung_Cancer_Dashboard.png" alt="Dashboard" width="1200">
 
 📌Explore the Interactive Dashboard** Use slicers to filter transactions by Gender and Age Group. Hover over visuals to view causes trends and disease patterns.
 
