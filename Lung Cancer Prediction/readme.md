@@ -1,5 +1,6 @@
 Lung Cancer Survey Analysis for Both Males and Females
 
+<img src="Image/Lung Cancer.png" alt="Dashboard" width="600">
 
 📌 Project Overview This analysis is to help understand the cancer risk in different age groups and also notify the respondents with lung cancer in different age groups. My data was analyzed using Microsoft Excel and visualized using Python.
 
